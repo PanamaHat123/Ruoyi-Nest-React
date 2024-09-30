@@ -1,0 +1,18 @@
+export default {
+	'system.dept.title': 'Department',
+	'system.dept.dept_id': 'Dept Id',
+	'system.dept.parent_id': 'Parent Id',
+	'system.dept.parent_dept': 'Parent Dept',
+	'system.dept.ancestors': 'Ancestors',
+	'system.dept.dept_name': 'Name',
+	'system.dept.order_num': 'Order No.',
+	'system.dept.leader': 'Leader Name',
+	'system.dept.phone': 'Phone',
+	'system.dept.email': 'Email',
+	'system.dept.status': 'Status',
+	'system.dept.del_flag': 'Deletion',
+	'system.dept.create_by': 'Create By',
+	'system.dept.create_time': 'Create Time',
+	'system.dept.update_by': 'Update By',
+	'system.dept.update_time': 'Update Time',
+};

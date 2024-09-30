@@ -1,0 +1,18 @@
+export default {
+  'system.dict.data.title': 'Dictionary Data',
+  'system.dict.data.dict_code': 'Code',
+  'system.dict.data.dict_sort': 'Sort',
+  'system.dict.data.dict_label': 'Label',
+  'system.dict.data.dict_value': 'Value',
+  'system.dict.data.dict_type': 'Type',
+  'system.dict.data.css_class': 'CSS Style',
+  'system.dict.data.list_class': 'Display Type',
+  'system.dict.data.is_default': 'Default',
+  'system.dict.data.is_number': 'Convert to Number',
+  'system.dict.data.status': 'Status',
+  'system.dict.data.remark': 'Remark',
+  'system.dict.data.create_by': 'Create By',
+  'system.dict.data.create_time': 'Create Time',
+  'system.dict.data.update_by': 'Update By',
+  'system.dict.data.update_time': 'Update Time',
+};
