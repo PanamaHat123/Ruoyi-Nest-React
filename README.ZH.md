@@ -11,7 +11,8 @@ Language : [EN](./README.md) | 中
 </p>
 
 一款基于 Nestjs 最新版本的开箱即用的中后台管理系统.
-![例图1](./page.png)
+
+![例图1](https://gitee.com/yu_xiaobo/images/raw/master/ruoyi_nest_react/page.png)
 
 
 # 说明
@@ -30,11 +31,11 @@ Language : [EN](./README.md) | 中
 2.使用AsyncLocalStorage实现异步上下文追踪
 
 ## 初始化项目
-（Node版本建议18+,包管理使用pnpm）  
+（Node版本建议18+,包管理使用pnpm）
 
-1.拉取项目到本地  
+1.拉取项目到本地
 
-2.初始化数据库，sql文件分为中文和英文，根据需要  
+2.初始化数据库，sql文件分为中文和英文，根据需要
 
 3.config/development.js文件中配置mysql和redis
 
@@ -48,7 +49,7 @@ nest相关
     1.nest generate app newModule
     2. app.module.ts中引入模块
 ```
-![例图1](./structure.png)
+![例图1](https://gitee.com/yu_xiaobo/images/raw/master/ruoyi_nest_react/structure.png)
 
 ## 感谢
 1.前端基于 https://gitee.com/whiteshader/ruoyi-react 项目前端修改  

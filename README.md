@@ -13,14 +13,14 @@ Language : EN | [中](./README.ZH.md)
 [//]: # (<div align="center">)
 
 A out of the box backend management system based on the latest version of Nestjs
-![例图1](./page.png)
+![例图1](https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/page.png)
 # Description
 ## Brief introduction
 Ruoyi-nest-react is a full stack open source rapid development platform. Implemented code generation,i18n,
 Functions such as permission verification, operation log, and dynamic menu.   
 Back-end project structure refer to springboot Polymerization project.  
 Use controller,service,dao three-layer structure  
-More suitable for node full stack developer to use  
+More suitable for node full stack developer to use
 
 Front-end：React18,Umi4,Ant Design Pro 6  
 Back-end：Nestjs Monorepo structure  
@@ -42,7 +42,7 @@ Third part： Mysql Redis (recommend mysql8+, redis6+)
 14. System interface: Automatically generate related api interface documents according to the business code.
 
 ## Initialization
-（Recommend Node version 18+,Package management tool use pnpm）  
+（Recommend Node version 18+,Package management tool use pnpm）
 
 1.Pull project to local
 
@@ -61,7 +61,7 @@ nest create new module description:
     1.nest generate app newModule
     2. and go "app.module.ts" and import module
 ```
-![例图1](./structure.png)
+![例图1](https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/structure.png)
 
 ## Project picture
 <table>
