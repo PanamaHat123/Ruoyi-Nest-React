@@ -66,35 +66,39 @@ nest create new module description:
 ## Project picture
 <table>
     <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-9996b274886e8134066ccee096fde2089dd.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-66afe06885d34482862536e4f00c87c0475.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p1.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p1-1.png"/></td>
     </tr>    
     <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-f279ee4e419e9ba80a77fd898ebd8c9ac45.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-b56c891e29d1dfd0213b000339effd256db.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p2.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p2-2.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-26d4a0f56967f4c319d6e95cab9652bdbfe.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-125aed48a8214551cb2ce5aa5a1403d78e9.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p3.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p3-3.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-59bc1efe5d8f109e56305aa86192ff56bb0.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-6e081044a6f864c96df9a25aaa26516f7fc.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p4.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p5.png"/></td>
     </tr>
 	<tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-ed2e67f41c8a56e0db1215645a0d9dd1e52.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-2788241f7893ac8fbfd2b84813f60451755.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p6.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p7.png"/></td>
     </tr>
 	<tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-eda1770f6383e0001439b56c3392012213d.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-31c487d7419b16bc79de0d6a6a12789f048.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p8.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p9.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-31c487d7419b16bc79de0d6a6a12789f048.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-4d8cd86ba198f0263f90a0bd36c47b0317b.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p10.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p11.png"/></td>
     </tr>
-	<tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-6d0ba703a00f8b02a0540931c9e67fe816c.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-376159966aa67e7e2fdd971bf68fb0a3375.png"/></td>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p12.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p13.png"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p14.png"/></td>
+        <td><img src="https://raw.githubusercontent.com/PanamaHat123/images/refs/heads/master/ruoyi_nest_react/p15.png"/></td>
     </tr>
 </table>
