@@ -73,10 +73,10 @@ export default ${className}Form;
 
     `;
 
-  function createFormValueAssign(cloumns:GenTableColumnEntity[]) {
+  function createFormValueAssign(columns:GenTableColumnEntity[]) {
     let str = ``;
 
-    cloumns.forEach(item=>{
+    columns.forEach(item=>{
       str+=`
       ${item.javaField}: props.values.${item.javaField},`
     })
